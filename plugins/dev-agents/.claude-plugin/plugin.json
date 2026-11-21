@@ -1,0 +1,8 @@
+{
+  "name": "dev-agents",
+  "version": "1.0.0",
+  "description": "Agentes especialistas de desarrollo con estándares de código limpio, SOLID, patrones y escalabilidad",
+  "author": {
+    "name": "Alan"
+  }
+}

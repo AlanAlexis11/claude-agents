@@ -1,0 +1,12 @@
+{
+  "name": "alan-agents",
+  "description": "Agentes de desarrollo de Alan para Claude Code",
+  "owner": { "name": "Alan" },
+  "plugins": [
+    {
+      "name": "dev-agents",
+      "source": "./plugins/dev-agents",
+      "description": "14 agentes especialistas: front, Nest, Go, .NET, DB, DevOps, QA, review, arquitectura, análisis funcional, orquestador y sparring"
+    }
+  ]
+}
